@@ -30,8 +30,5 @@ misuse or damage caused by this program.
 
 #### Credits & Thanks:
 
-<table><tr>
-<td> [Metasploit-framework] <a href="https://github.com/rapid7/metasploit-framework">
-    <img src="https://media.trustradius.com/vendor-logos/Jt/nm/DMQHRCTTH9CT-180x180.JPEG">
- </a></td>
- </tr></table></center>
+![Metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  
