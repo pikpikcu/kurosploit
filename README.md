@@ -1,6 +1,6 @@
 ### KuroSploit[Beta]
 
-<h4 align="center"><img src="https://raw.githubusercontent.com/pikpikcu/Kurosploit/master/img/banner.png" width="300px" height="300px">
+<h4 align="center"><img src="https://raw.githubusercontent.com/pikpikcu/Kurosploit/master/img/banner.png">
 
 </a>
 <h4 align="center">Details</h4>                
