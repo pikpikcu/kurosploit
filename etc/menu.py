@@ -5,7 +5,6 @@ import sys
 import os
 from kurosploit import main
 from os import popen,system
-from plugins import backdoor
 from etc import help
 from os.path import exists
 from etc.colors import bcolors
